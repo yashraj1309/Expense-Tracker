@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+.App {
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+}
+
+.con {
+  width: 80%;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  border: 1px solid rgba(0, 0, 0, 0.219);
+  border-radius: 0.5rem;
+  flex-direction: column;
+  justify-content: center;
+}
+
+button {
+  font-size: 1rem;
+  border: none;
+  background: transparent;
+  border: 0.2em solid black;
+  margin: 1em;
+  border-radius: 0.5rem;
+  padding: 0.5rem 1.5rem;
+}
+
+.rmbtn {
+  margin-top: -1em;
+}
